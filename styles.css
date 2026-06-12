@@ -1,0 +1,34 @@
+ body {
+    max-width: 400px;
+   margin-left: auto;
+ }
+ #lead-input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #18d14d;
+    
+
+}
+button{
+    width: 100px;
+    padding: 10px;
+    background-color: #18d14d;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+}
+#delete-leads{
+    background-color: white;
+    color: #18d14d;
+    border: 1px solid #18d14d;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    color:  #18d14d;
+}
